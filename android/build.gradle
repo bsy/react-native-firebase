@@ -2,7 +2,7 @@
 // YES, jcenter is required twice - it somehow tricks studio into compiling deps below
 // doesn't break anything anywhere else and projects using this lib work as normal
 buildscript {
-    ext.firebaseVersion = '10.2.6'
+    ext.firebaseVersion = '11.0.1'
 
     repositories {
         jcenter()
